@@ -1,0 +1,4 @@
+#Directories
+STEPS_DIR: Resource/Steps
+PAGE_MODEL_DIR: Resource/PO
+DRIVERS_DIR: Resource/Drivers
